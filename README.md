@@ -35,7 +35,7 @@ This application allows users to upload PDF documents, ask questions about their
    - Add your NVIDIA API key: `NVIDIA_API_KEY=your_api_key_here`
 5. Run the application:
    ```
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## Usage
