@@ -43,7 +43,7 @@ Here are some example screenshots of the application:
 
 ### PDF Upload and Chat Interface
 ![PDF Upload and Chat Interface](ncert1.jfif)
-![Document Summary and Question Answering](ncert2.jpeg)
+![Document Summary and Question Answering](ncert2.png)
 
 ## Usage
 
