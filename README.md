@@ -37,6 +37,13 @@ This application allows users to upload PDF documents, ask questions about their
    ```
    streamlit run main.py
    ```
+## Example Screenshots
+
+Here are some example screenshots of the application:
+
+### PDF Upload and Chat Interface
+![PDF Upload and Chat Interface](path/to/your/image1.png)
+![Document Summary and Question Answering](path/to/your/image2.png)
 
 ## Usage
 
